@@ -1,7 +1,3 @@
-# Description
-
-The paper proposes a new approach to mitigate SIM box fraud, which involves preventing SIM box devices from using cellular networks. They propose a simple access control logic that uses precise fingerprinting of device models and types to detect unauthorized SIM box use. They demonstrate that fingerprints constructed from network-layer auxiliary information are mostly distinct among smartphones and can be used to prevent the majority of illegal SIM boxes from making unauthorized voice calls. This proposal is the first practical and reliable unauthorized cellular device model detection scheme and simplifies the mitigation against SIM box fraud.
-
 # Prerequisite
 
 - Pcap to txt conversion
