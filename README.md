@@ -15,7 +15,7 @@ The paper proposes a new approach to mitigate SIM box fraud, which involves prev
 
 Convert pcap files to txt in directory "pcaps" for feature vector generation
 ```sh
-python3 pcap2txt -d pcaps
+python3 pcap2txt.py -d pcaps
 ```
 
 Generate single feature vector with a file "Galaxy_S5.txt":
