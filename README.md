@@ -5,11 +5,11 @@ The paper proposes a new approach to mitigate SIM box fraud, which involves prev
 # Prerequisite
 
 - Pcap to txt conversion
--- tshark
--- Python3
+ - tshark
+ - Python3
 
 - Generate fingerprint
--- Python2.7
+ - Python2.7
 
 # How to run
 
