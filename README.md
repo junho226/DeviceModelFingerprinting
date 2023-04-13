@@ -10,7 +10,6 @@
 # Wireshark setting
 
 For pcap parsing, DLT_USER setting is required.
-DLT_USER can be changed in below location
 - Edit > Preferences > Protocols > DLT_USER
 
 |DLT|Payload protocol|
